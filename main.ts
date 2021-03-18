@@ -23,5 +23,5 @@ input.onGesture(Gesture.Shake, function () {
     basic.showString("8")
 })
 let Number2 = 0
-// displays an 8 to symbolize that this is a magic 8 ball
+// on start an 8 is displayed to symbolize that this is a magic 8 ball
 basic.showString("8")
